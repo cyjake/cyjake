@@ -1,2 +1,2 @@
-- 🔭 I’m currently working on <https://www.yuque.com>, and we're [constantly recruiting](https://www.yuque.com/yuque/jobs/join)).
+- 🔭 I’m currently working on <https://www.yuque.com>, and we're [constantly recruiting](https://www.yuque.com/yuque/jobs/join).
 - 🌱 I’ve been involved with web stuff for a while, and my own two cents are [leoric](https://github.com/cyjake/leoric) and [porter](https://github.com/erzu/porter).
