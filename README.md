@@ -1,2 +1,2 @@
-- 🔭 I’m currently working on <https://www.yuque.com>, and we're [constantly recruiting](https://www.yuque.com/yuque/jobs/join).
+- 🔭 I’m currently working on <https://chuangyi.taobao.com>, which is a Web application implemented in JavaScript and Rust that helps creative activities.
 - 🌱 I’ve been involved with web stuff for a while, and my own two cents are [leoric](https://github.com/cyjake/leoric) and [porter](https://github.com/erzu/porter).
