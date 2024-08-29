@@ -1,2 +1,2 @@
-- 🔭 I’m currently working on <https://chuangyi.taobao.com> (we're hiring!), a creative platform implemented in JavaScript and Rust.
+- 🔭 I’m currently working on <https://chuangyi.taobao.com> and <https://agi.taobao.com> (we're hiring!), both are implemented in JavaScript and Rust.
 - 🌱 I’ve been involved with web stuff for a while, and my own two cents are [leoric](https://github.com/cyjake/leoric) and [porter](https://github.com/porterhq/porter).
